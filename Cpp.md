@@ -1,1 +1,2 @@
-Programa para calcular gasto de gasolina em uma viagem
+Meu aprendizado na Universidade
+programas e códigos feitos ao longo do meu curso
